@@ -2,30 +2,30 @@
 
 ## Step 1.1:
 
-* Address of account A: 
-* Address of account B: 
+* Address of account A: CQSL3ZBEBEGFXC47MP2NRCY4EEIAPKZI4PFUTCENPOFLTN33SPFBXK6BRI
+* Address of account B: A32LVUZ4JDERCIC55MMHQP36U62MZKU3E7EDQJSAVNORFIYEH3HIAZX3WM
 
 ## Step 2:
 
-* Transaction ID from account A: 
-* Transaction ID from account B: 
+* Transaction ID from account A: ZUHF6IRQTYGYPD6WPI6VKZ5XEEEXEK4MBEIQRIUOGCDBDJAUASYQ
+* Transaction ID from account B: VDWAZHWTSW7TUL5G5RH45UUH5JUF32M5A55IGF6RVECDSXIIHTCA
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: 68884780
+* Name of the asset: olivia
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:
+* Transaction ID for opt-in of account B: J2UFNORGUOWCNUOLH4T6YVVOI3CAOM7MTAU527BZDJ7XOTWZ6Z7Q
 
 ## Step 3.3:
 
-* Transaction ID for transfer of asset from A to B:
+* Transaction ID for transfer of asset from A to B: 62P6NMPTJ7MTMQHVUD3EB5XECBELMGPPGFTWUBAJK6W3P3DZHBQQ
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: AAQPQT2SCO2C7GWLHFBKHIL3YDMV2BALWRP5KJOFD3IGR3V7STHA
 
 ## Step 5.1:
 
