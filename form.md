@@ -29,8 +29,8 @@
 
 ## Step 5.1:
 
-* Transaction ID for opt-in of account A:
+* Transaction ID for opt-in of account A: 2ZOZP2CVWG3C4TLQ3ZTFAP52QRO2SVZHSHP5SW5253C7X65JMRPQ
 
 ## Step 5.2:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer:FTGVZAPIXBNFH3WRVE6TT35UNNQIGIULJQJZWN7VEITUEQEOHX4A
